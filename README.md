@@ -13,8 +13,8 @@
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
   <!-- TODO: replace YOUR-LINKEDIN-ID, YOUR-EMAIL and YOUR-PORTFOLIO-URL -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-Ashen_Wijesuriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ashenisuru/"><img src="https://img.shields.io/badge/LinkedIn-Ashen_Wijesuriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ashenisuruwijesuriya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=AshenIsuruWijesuriya&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
