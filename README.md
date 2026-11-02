@@ -146,7 +146,7 @@ me.say_hi()
 <summary><b>⚡ Fun facts (click to expand)</b></summary>
 <br>
 
-- 🇱🇰 Based in Sri Lanka, previously lived in Melbourne, Australia
+- 🇱🇰 Based in Sri Lanka
 - 🍳 Worked in kitchens and ran my own cleaning gig while studying — I know what real-world pressure looks like
 - 🌍 Love travelling and seeing how different places run on data
 
